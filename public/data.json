@@ -1,0 +1,193 @@
+[
+    {
+        "id": 1,
+        "img": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_16.jpg",
+        "title": "The Complete 2023 Web Development Bootcamp",
+        "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+        "price": 15000,
+        "views": 12345,
+        "badge": "New",
+        "credit":  1
+    },
+    {
+        "id": 2,
+        "img": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
+        "title": "The Complete Python Bootcamp From Zero to Hero in Python",
+        "description": "Learn Python like a Professional  Start from the basics and go all the way to creating your own applications and games",
+        "price": 25000,
+        "views": 9876,
+        "badge": "Featured",
+        "credit": 2
+    },
+    {
+        "id": 3,
+        "img": "https://img-c.udemycdn.com/course/240x135/625204_436a_3.jpg",
+        "title": "The Web Developer Bootcamp 2023",
+        "description": "10 Hours of React just added. Become a Developer With ONE course - HTML, CSS, JavaScript, React, Node, MongoDB and More!",
+        "price":10000,
+        "views": 5432,
+        "badge": "Popular",
+        "credit": 10
+    },
+    {
+        "id": 4,
+        "img": "https://img-c.udemycdn.com/course/240x135/2776760_f176_10.jpg",
+        "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2023",
+        "description": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
+        "price": 35000,
+        "views": 8765,
+        "badge": "New",
+        "credit": 5
+    },
+    {
+        "id": 5,
+        "img": "https://img-c.udemycdn.com/course/240x135/625204_436a_3.jpg",
+        "title": "The Web Developer Bootcamp 2023",
+        "description": "10 Hours of React just added. Become a Developer With ONE course - HTML, CSS, JavaScript, React, Node, MongoDB and More!",
+        "price": 19000,
+        "views": 2345,
+        "badge": "Featured",
+        "credit": 5
+    },
+    {
+        "id": 6,
+        "img": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+        "title": "React - The Complete Guide 2023 (incl. React Router & Redux)",
+        "description": "Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router, Next.js, Best Practices and way more!",
+        "price": 23000,
+        "views": 6789,
+        "badge": "Popular",
+        "credit": 2
+    },
+    {
+        "id": 7,
+        "img": "https://img-c.udemycdn.com/course/240x135/756150_c033_2.jpg",
+        "title": "Angular - The Complete Guide (2023 Edition)",
+        "description": "Master Angular (formerly Angular 2)  and build awesome, reactive web apps with the successor of Angular.js",
+        "price": 35000,
+        "views": 5432,
+        "badge": "New",
+        "credit": 5
+    },
+    {
+        "id": 8,
+        "img": "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg",
+        "title": "The Complete JavaScript Course 2023: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+        "price": 19000,
+        "views": 7890,
+        "badge": "Featured",
+        "credit": 5
+    },
+    {
+        "id": 9,
+        "img": "https://img-c.udemycdn.com/course/240x135/533682_c10c_4.jpg",
+        "title": "Java Programming Masterclass updated to Java 17",
+        "description": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification",
+        "price": 23000,
+        "views": 4321,
+        "badge": "Popular",
+        "credit": 2
+    },
+    {
+        "id": 10,
+        "img": "https://img-c.udemycdn.com/course/240x135/950390_270f_3.jpg",
+        "title": "Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]",
+        "description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+        "price": 10000,
+        "views": 9876,
+        "badge": "New",
+        "credit": 6
+    },
+    {
+        "id": 11,
+        "img": "https://img-c.udemycdn.com/course/240x135/903744_8eb2.jpg",
+        "title": "Python for Data Science and Machine Learning Bootcamp",
+        "description": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
+        "price": 15000,
+        "views": 6543,
+        "badge": "Featured",
+        "credit": 1
+    },
+    {
+        "id": 12,
+        "img": "https://img-c.udemycdn.com/course/240x135/1754098_e0df_3.jpg",
+        "title": "The Data Science Course: Complete Data Science Bootcamp",
+        "description": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
+        "price":5000,
+        "views": 3456,
+        "badge": "Popular",
+        "credit":4
+    },
+    {
+        "id": 13,
+        "img": "https://img-c.udemycdn.com/course/240x135/543600_64d1_4.jpg",
+        "title": "Automate the Boring Stuff with Python Programming",
+        "description": "A practical programming course for office workers, academics, and administrators who want to improve their productivity.",
+        "price": 9000,
+        "views": 7654,
+        "badge": "New",
+        "credit": 7
+    },
+    {
+        "id": 14,
+        "img": "https://img-c.udemycdn.com/course/240x135/354176_fe73_5.jpg",
+        "title": "Selenium WebDriver with Java -Basics to Advanced+Frameworks",
+        "description": "TOP RATED  1 Master SELENIUM java 4 (Latest) course -5 Million students learning worldWide with great collaboration",
+        "price": 6000,
+        "views": 2345,
+        "badge": "Featured",
+        "credit": 2
+    },
+    {
+        "id": 15,
+        "img": "https://img-c.udemycdn.com/course/240x135/258316_55e9_12.jpg",
+        "title": "Complete C# Unity Game Developer 2D",
+        "description": "Learn Unity in C# & Code Your First Five 2D Video Games for Web, Mac & PC. The Tutorials Cover Tilemap",
+        "price": 15000,
+        "views": 5432,
+        "badge": "Popular",
+        "credit":5
+    },
+    {
+        "id": 16,
+        "img": "https://img-c.udemycdn.com/course/240x135/629302_8a2d_2.jpg",
+        "title": "Learn Python Programming Masterclass",
+        "description": "This Python For Beginners Course Teaches You The Python Language  Fast.  Includes Python Online Training With Python 3",
+        "price": 30000,
+        "views": 8765,
+        "badge": "New",
+        "credit": 2
+    },
+    {
+        "id": 17,
+        "img": "https://img-c.udemycdn.com/course/240x135/437398_46c3_10.jpg",
+        "title": "Build Responsive Real-World Websites with HTML and CSS",
+        "description": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid",
+        "price": 5500,
+        "views": 3456,
+        "badge": "Featured",
+        "view_time":3
+    },
+    {
+        "id": 18,
+        "img": "https://img-c.udemycdn.com/course/240x135/14346_9972_8.jpg",
+        "title": "Learn C# Programming (In Ten Easy Steps)",
+        "description": "Learn C#  the easy way, using graphical illustrations & an explanation of what happens inside the computer memory",
+        "price": 8000,
+        "views": 9876,
+        "badge": "Popular",
+        "credit": 4
+    },
+    {
+        "id": 19,
+        "img": "https://img-c.udemycdn.com/course/240x135/8324_fa84_13.jpg",
+        "title": "C Programming: Become A Pro! Think Like a Programmer!",
+        "description": "Become a Powerful Programmer | Waste No Time | Solve A LOT Of Exercises ( 11+ hrs) | Succeed in your exams!",
+        "price": 9000,
+        "views": 2345,
+        "badge": "New",
+        "credit": 2
+    }
+   
+]
